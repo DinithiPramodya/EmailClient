@@ -1,0 +1,5 @@
+Official: sunil,si@gmail,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,1989/03/10
+Personal: harry,hazz,dinithi251@gmail.com,2000/09/23
+Official: nimal,nimal@gmail.com,manager
+Personal: kamal, kamal, dinithi251@gmail.com,2022/09/23
