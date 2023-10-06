@@ -1,4 +1,4 @@
-# CLI based Emain Client Project
+# CLI based Email Client Project
 
 ## A command-line based email client project developped using Java, which is able to send personalized birthday greetings
 
