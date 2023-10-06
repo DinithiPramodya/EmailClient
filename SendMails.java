@@ -8,8 +8,8 @@ public class SendMails {
 
     public static void sendEmails(String recipient, String subject, String content) {
 
-        final String username = "pramodyamad.20@uom.lk";
-        final String password = "#sanNfran5";
+        final String username = "dummyEmailAddress";
+        final String password = "dummyPassword";
 
         Properties prop = new Properties();
 		prop.put("mail.smtp.host", "submit.uom.lk");
